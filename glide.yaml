@@ -1,0 +1,4 @@
+package: github.com/dohrm/go-rsql
+import:
+- package: github.com/stretchr/testify
+  version: v1.2.2
